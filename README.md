@@ -51,6 +51,9 @@ This project was created by:
 
 The dataset used in this project was obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/datasnaek/mbti-type).
 
+If you have any questions or feedback, feel free to open an issue or contact me at Email: mohdazeemkhan64@gmail.com.
+
+Thank you for checking out this project!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MOAzeemKhan/MBTI-Personality-Prediction/blob/main/license) file for details.
